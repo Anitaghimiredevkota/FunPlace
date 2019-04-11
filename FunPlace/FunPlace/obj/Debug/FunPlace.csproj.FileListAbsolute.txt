@@ -1,0 +1,7 @@
+C:\Users\Arushi\Desktop\Lab1\FunPlace\FunPlace\bin\Debug\FunPlace.exe.config
+C:\Users\Arushi\Desktop\Lab1\FunPlace\FunPlace\bin\Debug\FunPlace.exe
+C:\Users\Arushi\Desktop\Lab1\FunPlace\FunPlace\bin\Debug\FunPlace.pdb
+C:\Users\Arushi\Desktop\Lab1\FunPlace\FunPlace\obj\Debug\FunPlace.csproj.CoreCompileInputs.cache
+C:\Users\Arushi\Desktop\Lab1\FunPlace\FunPlace\obj\Debug\FunPlace.exe
+C:\Users\Arushi\Desktop\Lab1\FunPlace\FunPlace\obj\Debug\FunPlace.pdb
+C:\Users\Arushi\Desktop\Lab1\FunPlace\FunPlace\obj\Debug\FunPlace.csprojAssemblyReference.cache
